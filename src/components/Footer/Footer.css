@@ -1,0 +1,8 @@
+#footer_container {
+    display: flex;
+    width: 100vw;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(154, 81, 255, 0.837);
+}

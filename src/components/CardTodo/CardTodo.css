@@ -1,0 +1,7 @@
+#cardTodo_container{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    align-items: center;
+    border: 1px solid black;
+}
